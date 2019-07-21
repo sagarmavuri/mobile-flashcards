@@ -14,3 +14,25 @@ An app that allows users to study collections of flashcards. The app will allow 
 * Install all project dependencies with `npm install`
 * Start the development server with `npm start`
 * **App. is ANDROID compatible.**
+
+## Sneak peak
+
+### List of Decks view
+
+![ListDeck](https://github.com/sagarmavuri/mobile-flashcards/blob/master/sneak_peak_images/Decks.png)
+
+### Individal Deck view
+
+![Deck](https://github.com/sagarmavuri/mobile-flashcards/blob/master/sneak_peak_images/SoloDeck.png)
+
+### Add Deck View
+
+![AddDeck](https://github.com/sagarmavuri/mobile-flashcards/blob/master/sneak_peak_images/AddDeck.png)
+
+### Quiz View
+
+![Quiz](https://github.com/sagarmavuri/mobile-flashcards/blob/master/sneak_peak_images/Quiz.png)
+
+### Add Card View
+
+![AddCard](https://github.com/sagarmavuri/mobile-flashcards/blob/master/sneak_peak_images/AddCard.png)
